@@ -1,0 +1,22 @@
+# secrets
+m98312qr.beget.tech/public_html/site-core/config/config.php
+
+# logs
+m98312qr.beget.tech/*.log
+m98312qr.beget.tech/*.error.log*
+m98312qr.beget.tech/**/*.log
+
+# uploaded/generated files
+m98312qr.beget.tech/public_html/avatars/*
+!m98312qr.beget.tech/public_html/avatars/.htaccess
+
+m98312qr.beget.tech/public_html/homeworks/*
+!m98312qr.beget.tech/public_html/homeworks/.htaccess
+
+m98312qr.beget.tech/public_html/exports/*
+!m98312qr.beget.tech/public_html/exports/.htaccess
+
+# junk
+*.zip
+.DS_Store
+Thumbs.db
